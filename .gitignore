@@ -1,2 +1,7 @@
+# Dirs
 /.ipynb_checkpoints
 /ig
+/data
+
+# Files
+*.zip
